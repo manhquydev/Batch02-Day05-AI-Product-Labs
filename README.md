@@ -13,6 +13,27 @@ Folder này được chia theo đúng việc cần làm:
 | `01-invidual-workshop/app-teardown.md` | Bài mổ app AI thật: dùng thử, vẽ flow, tìm path yếu, viết finding thành quyết định product. |
 | `02-group-spec/` | Bộ template cho phần nhóm: gom bằng chứng, chuyển evidence thành insight/opportunity/build slice, và viết thin SPEC cuối Day 05. |
 
+## Trạng thái nộp bài — Day 05
+
+### Individual workshop
+
+| Mã học viên | Họ và tên | File | Trạng thái |
+|---|---|---|---|
+| 2A202600643 | Nguyễn Mạnh Quý | `01-invidual-workshop/2A202600643_NguyenManhQuy.md` | ✅ Đã nộp |
+| 2A202600737 | Trịnh Thị Lan Anh | `01-invidual-workshop/2A202600737.md` | ✅ Đã nộp |
+| 2A202600892 | Nguyễn Thanh Anh Quân | — | ⏳ Chưa nộp |
+| 2A202600981 | Nguyễn Đình Bảo Long | — | ⏳ Chưa nộp |
+
+### Group spec — Nhóm (2A202600643 · 2A202600737 · 2A202600892 · 2A202600981)
+
+**Track:** Entertainment / AI Recommendation · **App:** ReAct Agent Movie Recommendation (React + FastAPI)
+
+| File | Mô tả | Trạng thái |
+|---|---|---|
+| `02-group-spec/evidence-pack.md` | Bằng chứng self-use + user interview + competitor analysis → insight | ✅ Hoàn thành |
+| `02-group-spec/synthesis-decide.md` | Gom evidence thành cụm, chốt build slice, backlog | ✅ Hoàn thành |
+| `02-group-spec/thin-spec.md` | Thin SPEC: pain, build slice, 4 paths, failure mode, owner plan | ✅ Hoàn thành |
+
 ## Cấu trúc repo nộp bài Day 06
 
 Mỗi học viên nộp **một repo cá nhân**:
