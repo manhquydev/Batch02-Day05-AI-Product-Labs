@@ -21,7 +21,7 @@ Folder này được chia theo đúng việc cần làm:
 |---|---|---|---|
 | 2A202600643 | Nguyễn Mạnh Quý | `01-invidual-workshop/2A202600643_NguyenManhQuy.md` | ✅ Đã nộp |
 | 2A202600737 | Trịnh Thị Lan Anh | `01-invidual-workshop/2A202600737.md` | ✅ Đã nộp |
-| 2A202600892 | Nguyễn Thanh Anh Quân | — | ⏳ Chưa nộp |
+| 2A202600892 | Nguyễn Thanh Anh Quân | `01-invidual-workshop/2A202600892_NguyenThanhAnhQuan.md` | ✅ Đã nộp |
 | 2A202600981 | Nguyễn Đình Bảo Long | — | ⏳ Chưa nộp |
 
 ### Group spec — Nhóm (2A202600643 · 2A202600737 · 2A202600892 · 2A202600981)
